@@ -1,0 +1,5 @@
+project: movie_recommendations
+registry: data/registry.db
+provider: local
+online_store:
+    path: data/online_store.db
